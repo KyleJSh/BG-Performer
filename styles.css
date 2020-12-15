@@ -28,10 +28,6 @@ body {
   box-shadow: var(--shadow);
 }
 
-/* img {
-  width: 100%;
-} */
-
 
 
 /* Nav Bar */
@@ -83,17 +79,12 @@ body {
   margin: 1.1rem;
 }
 
-.top-header {
-  /* background-color: rgb(69, 69, 212); */
-}
-
 
 .top-container h1 {
   text-transform: uppercase;
   font-size: 2.6rem;
   letter-spacing: 2px;
   margin-bottom: 0;
-  /* background-color: red; */
 }
 
 .top-container p {
@@ -111,7 +102,6 @@ body {
   margin: 1rem;
   padding: 10px;
   border: 1px solid #ababab;
-  /* background-color: mediumaquamarine; */
 }
 
 .intro-container-text {
@@ -216,15 +206,9 @@ table tr:hover {
 }
 
 
-/* Logos Container */
-/* .logos-container {
-  display: inline;
-} */
-
 .logos {
   text-align: center;
   margin: 3rem;
-  /* background-color: salmon; */
 }
 
 .logos img {
@@ -248,15 +232,6 @@ table tr:hover {
   /* background-color: slateblue; */
 }
 
-.screenshots-text p {
-  /* background-color: tomato; */
-}
-
-/* .screenshots-container {
-  display: inline;
-  gap: 10px;
-  grid-template-columns: repeat(4, 1fr);
-} */
 
 .screenshots {
   text-align: center;
@@ -283,12 +258,8 @@ table tr:hover {
 
 .input-form {
   padding: 44px;
-  /* background-color: lawngreen; */
 }
 
-.show-form {
-  /* background-color: lightseagreen; */
-}
 
 .form-image {
   text-align: center;
