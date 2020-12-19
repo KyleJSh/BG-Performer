@@ -13,7 +13,7 @@ html {
 
 body {
   background: #ccc;
-  margin: 10px 20px;
+  margin: 11px 20px;
   line-height: 1.4;
 }
 
@@ -33,7 +33,7 @@ body {
 /* Nav Bar */
 .navbar {
   border-bottom: 2px solid gray;
-  height: 80px;
+  height: 81px;
   padding: 0 30px;
   /* position: absolute; */
 }
@@ -62,7 +62,7 @@ body {
   text-transform: uppercase;
   font-size: 1.4rem;
   height: inherit;
-  padding: 0 30px;
+  padding: 0 32px;
 }
 
 .navbar ul li a:hover {
